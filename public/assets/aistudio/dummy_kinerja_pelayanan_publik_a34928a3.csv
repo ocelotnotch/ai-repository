@@ -1,0 +1,55 @@
+id_observasi,periode,unit,jenis_layanan,target,realisasi,rata_waktu_layanan_menit,skor_kepuasan_1_5,jumlah_pengaduan,masukan
+OBS-003,2026-01,Unit Utara,Layanan Informasi,260,203,57.6,3.35,19,Petugas sebaiknya lebih sabar menjawab pertanyaan.
+OBS-007,2026-01,Unit Selatan,Administrasi Kependudukan,220,202,21.4,3.9,8,Saya berharap disambut dengan lebih ramah.
+OBS-002,2026-01,Unit Utara,Perizinan Usaha,220,175,53.1,3.09,19,Saya menunggu hampir satu jam sebelum dipanggil.
+OBS-005,2026-01,Unit Tengah,Perizinan Usaha,240,208,37.8,3.8,15,Daftar persyaratan di papan informasi kurang lengkap.
+OBS-009,2026-01,Unit Selatan,Layanan Informasi,300,295,29.0,4.07,9,Informasi biaya dan prosedur perlu dijelaskan sejak awal.
+OBS-004,2026-01,Unit Tengah,Administrasi Kependudukan,200,185,37.8,3.48,15,Mohon waktu penyelesaian dokumen dipersingkat.
+OBS-008,2026-01,Unit Selatan,Perizinan Usaha,260,254,30.8,3.82,12,Jadwal pengambilan dokumen mundur dari yang dijanjikan.
+OBS-006,2026-01,Unit Tengah,Layanan Informasi,280,260,36.2,3.9,11,Mohon panduan pengajuan dibuat lebih mudah dipahami.
+OBS-001,2026-01,Unit Utara,Administrasi Kependudukan,180,143,45.6,3.35,16,Antrean bergerak lambat walaupun berkas sudah lengkap.
+OBS-013,2026-02,Unit Tengah,Administrasi Kependudukan,210,197,33.2,3.6,9,Proses verifikasi memakan waktu cukup lama.
+OBS-017,2026-02,Unit Selatan,Perizinan Usaha,270,262,30.3,3.91,12,Status permohonan tidak dijelaskan dengan jelas.
+OBS-012,2026-02,Unit Utara,Layanan Informasi,270,203,52.8,3.12,19,Akses bagi pengguna kursi roda perlu diperbaiki.
+OBS-010,2026-02,Unit Utara,Administrasi Kependudukan,190,150,43.0,3.36,15,Saya bingung memilih formulir yang tepat.
+OBS-016,2026-02,Unit Selatan,Administrasi Kependudukan,230,222,22.6,3.88,5,Penjelasan diberikan dengan nada yang kurang sopan.
+OBS-014,2026-02,Unit Tengah,Perizinan Usaha,250,220,32.6,3.99,10,Sistem antrean elektronik sering tidak menampilkan nomor.
+OBS-011,2026-02,Unit Utara,Perizinan Usaha,230,172,48.8,3.33,18,Kursi di ruang tunggu belum mencukupi.
+OBS-018,2026-02,Unit Selatan,Layanan Informasi,310,302,32.0,3.63,8,Tahapan pengurusan perlu ditampilkan secara berurutan.
+OBS-015,2026-02,Unit Tengah,Layanan Informasi,290,273,40.7,3.76,15,Petunjuk pada situs berbeda dengan penjelasan di loket.
+OBS-023,2026-03,Unit Tengah,Perizinan Usaha,260,239,31.2,3.88,13,Mohon panduan pengajuan dibuat lebih mudah dipahami.
+OBS-022,2026-03,Unit Tengah,Administrasi Kependudukan,220,207,30.2,3.71,13,Daftar persyaratan di papan informasi kurang lengkap.
+OBS-021,2026-03,Unit Utara,Layanan Informasi,280,214,54.5,3.23,21,Mohon jelaskan dokumen tambahan yang harus dibawa.
+OBS-024,2026-03,Unit Tengah,Layanan Informasi,300,289,38.6,3.65,14,Mohon petugas lebih proaktif membantu warga lanjut usia.
+OBS-019,2026-03,Unit Utara,Administrasi Kependudukan,200,157,44.4,3.32,13,Nomor antrean tidak bergerak selama beberapa menit.
+OBS-026,2026-03,Unit Selatan,Perizinan Usaha,280,271,24.5,3.9,8,Waktu tunggu di loket masih terlalu panjang.
+OBS-027,2026-03,Unit Selatan,Layanan Informasi,320,327,29.7,3.72,8,Petugas kurang responsif ketika diminta bantuan.
+OBS-020,2026-03,Unit Utara,Perizinan Usaha,240,196,44.3,3.31,16,Pelayanan sebaiknya lebih cepat pada jam sibuk.
+OBS-025,2026-03,Unit Selatan,Administrasi Kependudukan,240,246,18.4,4.03,5,Permohonan saya baru diproses setelah beberapa kali datang.
+OBS-031,2026-04,Unit Tengah,Administrasi Kependudukan,230,210,25.6,3.89,7,Saya bingung memilih formulir yang tepat.
+OBS-036,2026-04,Unit Selatan,Layanan Informasi,330,324,28.2,3.99,7,Saya merasa kurang didengarkan saat menjelaskan kendala.
+OBS-033,2026-04,Unit Tengah,Layanan Informasi,310,289,36.7,3.88,13,Petunjuk pada situs berbeda dengan penjelasan di loket.
+OBS-028,2026-04,Unit Utara,Administrasi Kependudukan,210,166,45.4,3.28,16,Informasi biaya dan prosedur perlu dijelaskan sejak awal.
+OBS-032,2026-04,Unit Tengah,Perizinan Usaha,270,265,34.3,3.69,10,Cara petugas menanggapi pertanyaan perlu diperbaiki.
+OBS-029,2026-04,Unit Utara,Perizinan Usaha,250,207,48.9,3.55,19,Mohon tambah loket saat antrean ramai.
+OBS-034,2026-04,Unit Selatan,Administrasi Kependudukan,250,241,18.6,4.35,4,Saya berharap proses persetujuan tidak berlarut-larut.
+OBS-030,2026-04,Unit Utara,Layanan Informasi,290,239,46.4,3.54,14,Penerbitan dokumen lebih lama dari perkiraan.
+OBS-035,2026-04,Unit Selatan,Perizinan Usaha,290,294,22.0,4.12,6,Antrean bergerak lambat walaupun berkas sudah lengkap.
+OBS-044,2026-05,Unit Selatan,Perizinan Usaha,300,308,25.4,4.05,8,Jadwal pengambilan dokumen mundur dari yang dijanjikan.
+OBS-045,2026-05,Unit Selatan,Layanan Informasi,340,347,21.4,4.2,7,Mohon jelaskan dokumen tambahan yang harus dibawa.
+OBS-038,2026-05,Unit Utara,Perizinan Usaha,260,210,41.0,3.41,16,Mohon sediakan petunjuk arah menuju loket.
+OBS-043,2026-05,Unit Selatan,Administrasi Kependudukan,260,263,18.7,4.07,7,Tahapan pengurusan perlu ditampilkan secara berurutan.
+OBS-040,2026-05,Unit Tengah,Administrasi Kependudukan,240,236,29.5,3.99,11,Mohon waktu penyelesaian dokumen dipersingkat.
+OBS-039,2026-05,Unit Utara,Layanan Informasi,300,260,51.5,3.43,15,Saya menunggu hampir satu jam sebelum dipanggil.
+OBS-042,2026-05,Unit Tengah,Layanan Informasi,320,324,32.1,3.66,13,Petugas sebaiknya lebih sabar menjawab pertanyaan.
+OBS-037,2026-05,Unit Utara,Administrasi Kependudukan,220,190,41.7,3.4,11,Ruang tunggu terasa panas saat ramai.
+OBS-041,2026-05,Unit Tengah,Perizinan Usaha,280,270,34.6,3.81,10,Status permohonan tidak dijelaskan dengan jelas.
+OBS-052,2026-06,Unit Selatan,Administrasi Kependudukan,270,270,21.4,4.09,4,Informasi biaya dan prosedur perlu dijelaskan sejak awal.
+OBS-051,2026-06,Unit Tengah,Layanan Informasi,330,330,35.9,3.74,11,Saya berharap disambut dengan lebih ramah.
+OBS-053,2026-06,Unit Selatan,Perizinan Usaha,310,326,23.3,4.21,7,Kursi di ruang tunggu belum mencukupi.
+OBS-050,2026-06,Unit Tengah,Perizinan Usaha,290,300,29.6,3.79,11,Portal pengajuan sulit digunakan melalui ponsel.
+OBS-047,2026-06,Unit Utara,Perizinan Usaha,270,222,40.1,3.5,15,Daftar persyaratan di papan informasi kurang lengkap.
+OBS-048,2026-06,Unit Utara,Layanan Informasi,310,258,42.8,3.45,15,Nomor antrean tidak bergerak selama beberapa menit.
+OBS-054,2026-06,Unit Selatan,Layanan Informasi,350,364,24.1,4.17,9,Penjelasan diberikan dengan nada yang kurang sopan.
+OBS-046,2026-06,Unit Utara,Administrasi Kependudukan,230,194,42.1,3.53,14,Proses verifikasi memakan waktu cukup lama.
+OBS-049,2026-06,Unit Tengah,Administrasi Kependudukan,250,247,23.4,4.16,8,Mohon panduan pengajuan dibuat lebih mudah dipahami.

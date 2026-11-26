@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Dashboard for Decision Support",
+  "description": "Prototipe dashboard pendukung keputusan administrasi publik berbasis AI Agent Gemini dengan analisis kuantitatif deterministik, kategorisasi tematik semantik, dan validasi hasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
